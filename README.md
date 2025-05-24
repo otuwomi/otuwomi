@@ -1,100 +1,64 @@
-# Womi Otu  
-**Full-Stack Developer | Laravel Expert**  
-📍 Calabar, Nigeria | 📧 womypop@gmail.com | 🌐 [esuadigitals.com.ng](http://esuadigitals.com.ng)  
-🔗 GitHub: [github.com/otuwomi](https://github.com/otuwomi) | LinkedIn: [linkedin.com/in/otuwomi](https://www.linkedin.com/in/otuwomi)  
+# 👋 Hi, I'm Womi Otu
+
+**Full-Stack Developer | Laravel Expert | Tech Entrepreneur**  
+📍 Calabar, Nigeria | 🌐 [Esua Digitals](http://esuadigitals.com.ng)
 
 ---
 
-## 💼 Profile Summary  
-Creative and results-driven Full-Stack Developer with over 4 years of experience designing and developing scalable web applications, admin panels, Fintech platforms, and automation tools using Laravel, React, and modern technologies. Known for translating business logic into secure, efficient systems and integrating complex third-party APIs. Passionate about delivering clean, maintainable code with a strong focus on real-world solutions.
+🚀 I'm a creative and results-driven developer with 4+ years of experience building digital solutions that solve real-world problems. I specialize in Laravel-based web platforms, admin dashboards, Fintech logic systems, automation tools, and API integrations. I'm also the founder of [Socanum Connect](http://socanum.com), a digital services platform.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack
 
-**Languages**: PHP, JavaScript, HTML, CSS  
-**Frameworks & Libraries**: Laravel, React.js, Bootstrap, Tailwind CSS  
-**Databases**: MySQL  
-**Dev Tools & Platforms**: Git, GitHub, GitLab, cPanel, Linux (CLI), Composer, Postman  
-**Integrations**:  
-- Payment Gateways (Paystack, Flutterwave, Coinbase Commerce)  
-- Third-party APIs (SMSPool, SMS-Man, DaisySMS, Google reCAPTCHA, Social Boosting APIs)  
-- WYSIWYG Editors (CKEditor)  
-**Core Skills**:  
-- REST API design and integration  
-- Authentication (OAuth, JWT, Laravel Sanctum)  
-- Cron jobs and background jobs  
-- File management and secure uploads  
-- Laravel Queues, Events, Notifications  
-- CRUD operations and Admin Dashboards  
-- Email & SMS automation  
-- Fintech logic: deposit/withdrawal handling, transaction references, refund systems  
+- **Languages:** PHP, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Laravel, React.js, Tailwind CSS, Bootstrap  
+- **Database:** MySQL  
+- **Other Tools:** Git, cPanel, AJAX, CKEditor, SweetAlert, Nice Select, Cron Jobs  
+- **API Integrations:** REST APIs, SMS & Email APIs, Payment Gateways (Paystack, Flutterwave), Cryptocurrency APIs
 
 ---
 
-## 🧩 Project Highlights  
+## 📌 Current Projects
 
-### **Socanum Connect** – *Founder & Lead Developer*  
-[http://socanum.com](http://socanum.com)  
-A digital service platform for crypto trading, gift card exchange, social boosting, and virtual numbers.  
-✔ Built scalable admin dashboard for user & transaction management  
-✔ Developed Laravel-based crypto conversion and payout logic  
-✔ Integrated third-party SMS APIs for verification and code monitoring  
-✔ Automated refund process and notification systems via cron jobs  
+- **Socanum Connect**: Gift card exchange, crypto trading, virtual numbers, bill payments  
+- **Fintech**: Fintech dashboard for data, airtime, TV & utility payments  
+- **Social Media Boosting Platform**: Built API-based admin for creator verification & auto-order processing
 
 ---
 
-### **Social Media Boosting Platform**  
-✔ Designed creator verification system with API status tracking  
-✔ Implemented automated order updates and refunds via cron  
-✔ Built multi-API fallback logic (e.g., SMSPool to SMS-Man) for reliability  
-✔ Added Blade-based admin interfaces with pagination and filters  
+## 💡 What I’m Working On
+
+- Automating SMS verification logic via cron in Laravel  
+- Expanding social media boosting services using API integrations  
+- Developing scalable dashboards with user analytics  
+- Building Fintech-friendly backends with secure authentication & audit trails
 
 ---
 
-### **Esua Digitals**  
-[http://esuadigitals.com.ng](http://esuadigitals.com.ng)  
-Digital hub for buying crypto, paying bills, and accessing virtual services.  
-✔ Developed user dashboard and secure login with Laravel authentication  
-✔ Integrated payment gateways for Nigerian and global transactions  
-✔ Added utility bill payment modules (TV, electricity, data, airtime)  
-✔ Built audit trail and real-time transaction logging system  
+## 🤝 Let's Collaborate!
+
+I'm open to freelance opportunities, collaborations, and remote roles where I can contribute with modern, scalable web solutions. If you're looking for a Laravel expert who understands both frontend and backend needs, I’d love to connect.
 
 ---
 
-## 🧠 Education & Training  
+## 🔗 Find Me Online
 
-**BSc Physics (Electronics and Computer Technology)**  
-University of Calabar – Calabar, Nigeria  
-
-**ND Computer Hardware Engineering**  
-Onit Institute of Technology – Abagana, Anambra State  
-
-**ALX Africa (June 2021/2022 Cohort)**  
-Intro to Software Engineering – Learned Linux command line, Git, version control  
-
-**Self-Taught Developer**  
-Continuously improving through open-source contributions, YouTube, documentation, and hands-on project development.
+- [🌍 Portfolio](http://esuadigitals.com.ng)
+- [💼 LinkedIn](https://www.linkedin.com/in/otuwomi)
+- [📘 Facebook](https://web.facebook.com/otuwomi)
+- [👨‍💻 GitHub](https://github.com/otuwomi)
 
 ---
 
-## 💬 Soft Skills  
+## ✨ GitHub Stats
 
-✔ Analytical problem-solving  
-✔ Strong communication & collaboration  
-✔ Attention to detail  
-✔ Creative thinker with a business mindset  
-✔ Self-motivated and eager to learn  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otuwomi&show_icons=true&theme=radical&hide=issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otuwomi&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=otuwomi&theme=radical)
 
 ---
 
-## 🌍 Languages  
+> _"Great software comes from solving problems, not just writing code."_  
+> — *(Womi Otu)*
 
-• English – Fluent  
-• Lakaa – Conversational  
-
----
-
-## 📩 References  
-
-Available on request.
